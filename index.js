@@ -3,8 +3,8 @@
  * dependencies.
  */
 
-var emitter = require('emitter')
-  , request = require('xhr');
+var emitter = require('component-emitter')
+  , request = require('yields-xhr');
 
 /**
  * export `Download`

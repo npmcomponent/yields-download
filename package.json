@@ -1,0 +1,14 @@
+{
+  "name": "yields-download",
+  "description": "Downloads a file with `xhr` report progress and send the file to the user.",
+  "version": "0.0.1",
+  "keywords": [
+    "download",
+    "xhr"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "yields-xhr": "git://github.com/npmcomponent/yields-xhr.git"
+  },
+  "license": "MIT"
+}
